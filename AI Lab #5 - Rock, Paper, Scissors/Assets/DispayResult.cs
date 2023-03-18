@@ -10,6 +10,7 @@ public class DispayResult : MonoBehaviour
     public Sprite rock;
     public Sprite paper;
     public Sprite scissions;
+
     // Update is called once per frame
     void Update()
     {
